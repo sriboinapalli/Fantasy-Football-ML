@@ -1,0 +1,2 @@
+# Fantasy-Football-ML
+Fantasy Football ML is a Machine Learning project that predicts the overall statistical output of any given player in the NFL using the player's statistics from the year prior. Once the overall statistical output is predicted, the predicted output can be converted to Fantasy Points given a set of rules. This project includes Data Retrieval from http://www.pro-football-reference.com/, data analysis, prediction using regression, and assessment of the regression model.
